@@ -1,6 +1,6 @@
 # Dim: a simple dark theme for Firefox
 
-![dim](https://user-images.githubusercontent.com/1840854/217046428-34183ec3-96ab-436c-a3a6-6eeca70a6b2a.svg)
+![dim](https://user-images.githubusercontent.com/1840854/217047618-9ce1ab55-338b-4b43-9971-bf04cd710965.svg)
 
 ## Installation
 
