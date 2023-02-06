@@ -1,0 +1,45 @@
+{
+	"name": "Dim",
+	"manifest_version": 2,
+	"version": "1.1",
+	"theme": {
+		"images": {},
+		"properties": {},
+		"colors": {
+			"button_background_active": "#6e6c6d",
+			"frame_inactive": "#1c1b1e",
+			"frame": "#19181c",
+			"icons_attention": "#c8c2c5",
+			"icons": "#989295",
+			"ntp_background": "#19181c",
+			"ntp_text": "#6e6c6d",
+			"popup_border": "#2c2c2c",
+			"popup_highlight_text": "#f5f1f3",
+			"popup_highlight": "#504f50",
+			"popup_text": "#f5f1f3",
+			"popup": "#2c2c2c",
+			"sidebar_border": "#2c2c2c",
+			"sidebar_highlight_text": "#f5f1f3",
+			"sidebar_highlight": "#222223",
+			"sidebar_text": "#c8c2c5",
+			"sidebar": "#19181c",
+			"tab_background_text": "#989295",
+			"tab_line": "#222223",
+			"tab_loading": "#222223",
+			"tab_selected": "#222223",
+			"tab_text": "#f5f1f3",
+			"toolbar_field_border_focus": "transparent",
+			"toolbar_field_focus": "#222223",
+			"toolbar_field_highlight": "#3a3a3a",
+			"toolbar_field_text": "#f5f1f3",
+			"toolbar_field": "#1c1b1e",
+			"toolbar_text": "#989295",
+			"toolbar": "transparent"
+		}
+	},
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "{e0f447b4-6c9f-4170-aea7-cc5c3cb72758}"
+		}
+	}
+}
